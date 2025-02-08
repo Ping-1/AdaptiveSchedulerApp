@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+   <plist version="1.0">
+   <dict>
+       <key>CFBundleIdentifier</key>
+       <string>$(PRODUCT_BUNDLE_IDENTIFIER)</string>
+       <key>CFBundleName</key>
+       <string>$(PRODUCT_NAME)</string>
+       <!-- Описание использования календаря -->
+       <key>NSCalendarsUsageDescription</key>
+       <string>Это приложение требует доступ к календарю для добавления событий.</string>
+       <!-- При необходимости можно добавить и другие ключи -->
+       <key>NSLocationUsageDescription</key>
+       <string>Это приложение требует доступ к местоположению для некоторых функций.</string>
+       <key>NSUserNotificationUsageDescription</key>
+       <string>Это приложение использует уведомления для оповещений о задачах.</string>
+   </dict>
+   </plist>
